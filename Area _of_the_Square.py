@@ -1,0 +1,4 @@
+S=int(input("S:")) # Make use of the value of S read using the input function.
+
+area = S * S
+print(f"{area}")
